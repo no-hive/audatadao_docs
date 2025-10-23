@@ -1,5 +1,5 @@
 ---
-icon: circle-a
+icon: code-branch
 ---
 
 # Smart Contracts
