@@ -2,14 +2,15 @@
 
 ## Welcome!
 
-* [What is Audata?](README.md)
-* [Audata Utility](welcome/audata-utility.md)
+* [30 seconds intro](README.md)
+* [AudataDAO Concept](welcome/audatadao-concept.md)
+* [Utility Cases](welcome/utility-cases.md)
 * [Audata Ecosystem](welcome/audata-ecosystem.md)
 * [Roadmap](welcome/roadmap.md)
 
 ## Audata token
 
-* [Token Utility](audata-token/token-utility.md)
+* [$AUDATA token](audata-token/usdaudata-token.md)
 * [How to get $AUDATA](audata-token/how-to-get-usdaudata.md)
 * [Copy of How to get $AUDATA](audata-token/copy-of-how-to-get-usdaudata.md)
 * [Tokenomics](audata-token/tokenomics.md)
