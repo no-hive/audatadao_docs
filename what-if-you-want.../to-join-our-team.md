@@ -2,7 +2,7 @@
 icon: briefcase-blank
 ---
 
-# to join our team
+# to join the dev team
 
 There are several ways you can get involved with our project and help us advance the future of audio science:
 

@@ -2,7 +2,7 @@
 icon: briefcase
 ---
 
-# to become a partner
+# to become the partner
 
 DM us in any socials if you want to offer the parntership.
 

@@ -6,7 +6,7 @@ icon: scroll
 
 Audata fuels ML & AI industries with raw audio data. We are not the only ones to do it, but we are the only ones to do it in secure and right way. \
 \
-The industry is struggling to get new data for its models, voice assistants, studies, etc - read[utility.md](utility.md "mention") to find more insutries we are focused on. All is because of people who are rarely ready to give their private data away, especially their voice messages where private topics might be discussed.
+The industry is struggling to get new data for its models, voice assistants, studies, etc - read[utility-cases.md](utility-cases.md "mention") to find more insutries we are focused on. All is because of people who are rarely ready to give their private data away, especially their voice messages where private topics might be discussed.
 
 &#x20;We believe we have already solved this problem. And now we are delivering it to the indurstry.&#x20;
 

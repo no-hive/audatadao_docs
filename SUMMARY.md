@@ -6,15 +6,15 @@
 
 ## OVERVIEW
 
-* [Concept](overview/concept.md)
-* [Utility](overview/utility.md)
-* [Roadmap](overview/roadmap.md)
+* [Concept](welcome/audatadao-concept.md)
+* [Utility](welcome/utility-cases.md)
+* [Roadmap](welcome/roadmap.md)
 
 ## TECH BEHIND
 
-* [DAO Token](tech-behind/dao-token.md)
-* [Codebase](tech-behind/codebase.md)
-* [Smart Contracts](tech-behind/smart-contracts.md)
+* [DAO Token](audata-token/usdaudata-token.md)
+* [Codebase](tech-behind/project-structure.md)
+* [Smart Contracts](tech-behind/vana-blockchain.md)
 
 ## TEAM BEHIND
 
@@ -22,10 +22,10 @@
 
 ## Contact Us
 
-* [to join the dev team](contact-us/to-join-the-dev-team.md)
-* [to buy a dataset](contact-us/to-buy-a-dataset.md)
-* [to become the partner](contact-us/to-become-the-partner.md)
-* [to become the ambassador](contact-us/to-become-the-ambassador.md)
+* [to join the dev team](what-if-you-want.../to-join-our-team.md)
+* [to buy a dataset](what-if-you-want.../to-buy-dataset.md)
+* [to become the partner](what-if-you-want.../to-become-a-partner.md)
+* [to become the ambassador](what-if-you-want.../to-become-ambassador.md)
 
 ## Guides
 
