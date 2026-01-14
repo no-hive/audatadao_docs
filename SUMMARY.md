@@ -1,55 +1,39 @@
 # Table of contents
 
-## Welcome!
+## Intro
 
-* [30 seconds intro](README.md)
-* [AudataDAO Concept](welcome/audatadao-concept.md)
-* [Utility Cases](welcome/utility-cases.md)
-* [Audata Ecosystem](welcome/audata-ecosystem.md)
-* [Roadmap](welcome/roadmap.md)
+* [Welcome!](README.md)
 
-## Audata token
+## OVERVIEW
 
-* [$AUDATA token](audata-token/usdaudata-token.md)
-* [How to get $AUDATA](audata-token/how-to-get-usdaudata.md)
-* [Copy of How to get $AUDATA](audata-token/copy-of-how-to-get-usdaudata.md)
-* [Tokenomics](audata-token/tokenomics.md)
-* [Token Governance (DAO)](audata-token/token-governance-dao.md)
+* [Concept](overview/concept.md)
+* [Utility](overview/utility.md)
+* [Roadmap](overview/roadmap.md)
 
-## tech behind
+## TECH BEHIND
 
-* [VANA Blockchain](tech-behind/vana-blockchain.md)
+* [DAO Token](tech-behind/dao-token.md)
+* [Codebase](tech-behind/codebase.md)
 * [Smart Contracts](tech-behind/smart-contracts.md)
-* [Data Flow](tech-behind/data-flow.md)
-* [Project Structure](tech-behind/project-structure.md)
-* [Proof of Contribution](tech-behind/proof-of-contribution.md)
 
-## What if you want...
+## TEAM BEHIND
 
-* [to buy dataset](what-if-you-want.../to-buy-dataset.md)
-* [to become a partner](what-if-you-want.../to-become-a-partner.md)
-* [to become ambassador](what-if-you-want.../to-become-ambassador.md)
-* [to join our team](what-if-you-want.../to-join-our-team.md)
-* [to contribute](what-if-you-want.../to-contribute.md)
+* [Cape4labs](team-behind/cape4labs.md)
 
-## Other
+## Contact Us
 
-* [NFT Collection](other/nft-collection.md)
+* [to join the dev team](contact-us/to-join-the-dev-team.md)
+* [to buy a dataset](contact-us/to-buy-a-dataset.md)
+* [to become the partner](contact-us/to-become-the-partner.md)
+* [to become the ambassador](contact-us/to-become-the-ambassador.md)
 
 ## Guides
 
-* [Guide1](guides/guide1.md)
+* [DApp Contribution Guide](guides/guide1.md)
+* [Audio Download Guide](guides/audio-download-guide.md)
 
 ## Links
 
-* [DApp (audata.space)](https://audata.space/)
-* [@audatadao](https://x.com/audatadao)
-* [AUDATA](https://discord.com/channels/1153824909806551152/1402731741072068752)
-* [@audata\_dao](https://t.me/audata_dao)
-* [Dashboard (Dune)](https://dune.com/no__hive/audatadao-stats)
-
-## Hidden links
-
-* [AudataDAO Blog](https://vancitizenship.gov.vu/)
-* [dashboard.audata](https://t.me/c/2789075218/798)
-* [main.audata](https://t.me/c/2789075218/798)
+* [Web DApp](https://audata.space/)
+* [X (Twitter)](https://x.com/audatadao)
+* [Discord](https://discord.com/channels/1153824909806551152/1402731741072068752)
