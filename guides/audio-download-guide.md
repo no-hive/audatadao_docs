@@ -4,30 +4,22 @@ icon: calendar-arrow-down
 
 # Audio Download Guide
 
-## How to download an audio recording from Telegram
+### How to download an audio recording from Telegram
 
 The process of downloading audio recordings from Telegram is quite simple and does not require any special skills or additional applications. However, users of different operating systems should consider some features.
 
-## Step-by-step instructions
+### Step-by-step instructions
 
-{% stepper %}
-{% step %}
-### Basic steps (common to all devices)
+#### Basic steps (common to all devices)
 
 * Launch Telegram on your device.
 * Go to the chat or channel containing the desired audio recording.
 * Click on the audio file to start playback.
 * Wait for the file to finish loading (a play button will appear).
 
-The next steps will differ depending on your device.
-{% endstep %}
-{% endstepper %}
+#### The next steps will differ depending on your device.
 
-## How to download music from Telegram
-
-Many Telegram users often share music files in the messenger. Below are platform-specific instructions.
-
-### On iPhone
+#### On iPhone
 
 {% stepper %}
 {% step %}
@@ -55,7 +47,7 @@ Specify the folder to save and confirm the action. After that, the music file wi
 {% endstep %}
 {% endstepper %}
 
-### On Android
+#### On Android
 
 {% stepper %}
 {% step %}
@@ -85,11 +77,7 @@ Note: On Android 11 and newer, audio files from Telegram are saved by default in
 If you have trouble accessing this folder through the standard file manager, try installing a third-party file manager.
 {% endhint %}
 
-## How to download music from Telegram to a computer
-
-Saving an audio file to a PC is straightforward using the Telegram desktop client or the web version.
-
-### Desktop application
+#### Desktop application
 
 {% stepper %}
 {% step %}
@@ -113,7 +101,7 @@ Click “Save” to download the file.
 {% endstep %}
 {% endstepper %}
 
-### Web version (browser)
+#### Web version (browser)
 
 {% stepper %}
 {% step %}
@@ -137,15 +125,15 @@ Confirm the selection to initiate the download.
 {% endstep %}
 {% endstepper %}
 
-### Let's sumarize:&#x20;
+### Let’s summarize
 
 Armed with these instructions and tips, you can save your favorite music, podcasts, or voice messages to your iPhone, Android smartphone, or computer. Technology evolves, and Telegram or third-party tools may add even simpler ways to save media in the future. Until then — save, listen, share, and enjoy your audio recordings.
 
 Thank you for reading — happy listening!
 
-### Back to DApp
+### Back to the DApp
 
-Nw you can get back to contribution! - [#upload-your-audio-data](guide1.md#upload-your-audio-data "mention")
+Now you can get back to contributing: [DApp Contribution Guide](guide1.md#upload-your-audio-data)
 
 ***
 

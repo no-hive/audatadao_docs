@@ -1,7 +1,7 @@
 ---
 description: >-
-  Right now DApp is temporary paused due to Season 0 ending. Please, wait for
-  Season 1 to start.
+  Right now the DApp is temporarily paused because Season 0 ended. Please wait
+  for Season 1 to start.
 icon: calendar-check
 ---
 
@@ -9,41 +9,41 @@ icon: calendar-check
 
 {% stepper %}
 {% step %}
-#### **Register.**&#x20;
+#### **Register**
 
-Visit our DApp website. Connect your EVM wallet. (Metamask recommended).&#x20;
+Visit our DApp website. Connect your EVM wallet (MetaMask recommended).
 {% endstep %}
 
 {% step %}
 ### Provide your metadata.
 
-To make your data contribution more valuable you will be offered to provide your year of birth, country of origin and asked 1-2 questions about your occupation / education.
+To make your contribution more valuable, you’ll be asked for your year of birth, country of origin, and 1–2 questions about your occupation/education.
 {% endstep %}
 
 {% step %}
-### Download some telegram audios.
+### Download a few Telegram audios.
 
-Download audio from Telegram (.ogg format). Make sure it's audios contain YOUR voice. It's important not to break the data privacy rules of other people.
+Download audio from Telegram (.ogg format). Make sure the files contain **your** voice. Do not upload other people’s voices.
 
-_Don't know to download audio from Telegram? Then check the second guide! -_ [#how-to-download-an-audio-recording-from-telegram](audio-download-guide.md#how-to-download-an-audio-recording-from-telegram "mention")
+_Don’t know how to download audio from Telegram? Check the second guide:_ [Audio Download Guide](audio-download-guide.md#how-to-download-an-audio-recording-from-telegram)
 {% endstep %}
 
 {% step %}
 ### Upload your audio data.
 
-Choose a language of audios you contribute. Drop it all to the upload box. You can drop several files at once.
+Choose the language of the audio you’re contributing. Drop files into the upload box. You can upload several files at once.
 {% endstep %}
 
 {% step %}
 ### Sign all the transactions.
 
-You will need to sign several transactions including one that will encrypt your audio making possible to make the upload proccess completely private for you.
+You’ll need to sign several transactions. One of them encrypts your audio, making the upload process private.
 {% endstep %}
 
 {% step %}
 ### Receive tokens!
 
-It is the best part - you receive the payment for your audio being sent to DAO dataset. Check the wallet in few minutes - if you did all the steps right, they will be there!
+This is the best part: you get paid for contributing audio to the DAO dataset. Check your wallet in a few minutes. If everything was done right, tokens will be there.
 {% endstep %}
 
 {% step %}
@@ -52,4 +52,3 @@ It is the best part - you receive the payment for your audio being sent to DAO d
 If the flow is still unclear, check [this video](https://youtu.be/z5G4HkJ90fQ) or ask questions on our [Discord](https://discord.com/channels/1153824909806551152/1402731741072068752).
 {% endstep %}
 {% endstepper %}
-

@@ -4,9 +4,9 @@ icon: mug-hot
 
 # Smart Contracts
 
-**The on-chain part of AudataDAO is currently based on Vana Blockchain.** We are deeply integrated into their ecosystem, working in alignment with their vision for decentralized data ownership.
+**The on-chain part of AudataDAO is currently based on the Vana blockchain.** We are deeply integrated into their ecosystem, working in alignment with their vision for decentralized data ownership.
 
-**Our Smart Contracts are live on Vana Mainnet:**&#x20;
+**Our smart contracts are live on Vana Mainnet:**
 
 {% columns %}
 {% column width="33.33333333333333%" %}
@@ -31,7 +31,7 @@ DAO Treasury Wallet
 {% endcolumns %}
 
 {% hint style="info" %}
-### What is DataLiquidity Pool?
+### What is a Data Liquidity Pool?
 
-aaaa
+TBD.
 {% endhint %}

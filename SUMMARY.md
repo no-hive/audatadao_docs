@@ -4,28 +4,23 @@
 
 * [Welcome!](README.md)
 
-## OVERVIEW
+## DAO OVERVIEW
 
-* [Concept](welcome/audatadao-concept.md)
-* [Utility](welcome/utility-cases.md)
-* [Roadmap](welcome/roadmap.md)
-
-## TECH BEHIND
-
-* [DAO Token](audata-token/usdaudata-token.md)
-* [Codebase](tech-behind/project-structure.md)
-* [Smart Contracts](tech-behind/vana-blockchain.md)
+* [Concept](dao-overview/concept.md)
+* [Utility](dao-overview/utility.md)
+* [Roadmap](dao-overview/roadmap.md)
+* [Tech Behind](dao-overview/tech-behind/README.md)
+  * [DAO Token](dao-overview/tech-behind/dao-token.md)
+  * [Codebase](dao-overview/tech-behind/codebase.md)
+  * [Smart Contracts](dao-overview/tech-behind/smart-contracts.md)
 
 ## TEAM BEHIND
 
 * [Cape4labs](team-behind/cape4labs.md)
-
-## Contact Us
-
-* [to join the dev team](what-if-you-want.../to-join-our-team.md)
-* [to buy a dataset](what-if-you-want.../to-buy-dataset.md)
-* [to become the partner](what-if-you-want.../to-become-a-partner.md)
-* [to become the ambassador](what-if-you-want.../to-become-ambassador.md)
+* [Contact Us](team-behind/contact-us/README.md)
+  * [to join the dev team](team-behind/contact-us/to-join-the-dev-team.md)
+  * [to buy a dataset](team-behind/contact-us/to-buy-a-dataset.md)
+  * [to become our partner](team-behind/contact-us/to-become-our-partner.md)
 
 ## Guides
 
