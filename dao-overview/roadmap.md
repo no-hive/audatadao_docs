@@ -5,65 +5,60 @@ icon: scribble
 
 # Roadmap
 
-### Right now project is on vacations. What does it mean? It mean we are in search of new investments, new clients, new oppurtunities, new technologies. During beta season (we call it Season 0) some serious problems we found so right now we are on our way to make the project better. Then we start season 1.
+### **The graph below reflects the project’s retrospective rather than its roadmap or future plans.**
 
-### Project founded.&#x20;
+{% updates format="full" %}
+{% update date="2024-12-08" %}
+## ◼️ Project founded.&#x20;
 
-Light paper published.
+The project was founded by [@no\_\_hive](https://x.com/no__hive). The light paper and the website were published, the core team was formed and the development started.
+{% endupdate %}
 
-Applied for Vana Academy.
+{% update date="2025-02-12" %}
+## ◼️ Applied for Vana Academy.
 
-Vana Grant Received.
+The AudataDAO team submitted an application to Vana Academy to receive additional education and support in the DataFi domain.
+{% endupdate %}
 
-Season 0 starts. DApp goes live.
+{% update date="2025-03-13" %}
+## ◼️ Meeting with Vana Founder.
 
-Community Growth. First art contest. First offline event.
+A meeting with [@artieart88](https://x.com/artieart88) was held, followed by close contact with Vana PM and SMM specialists, to discuss a potential partnership in detail.
+{% endupdate %}
 
+{% update date="2025-06-01" %}
+## ◼️ Rebranding & Development.
 
+The project was rebranded as AudataDAO to better represent its audio-focused mission. All repositories became fully open-sourced.
+{% endupdate %}
 
-### ~~Come up with a concept~~ - Q4 2024 - ✔️
+{% update date="2025-07-17" %}
+## ◼️ Vana Grant Received.
 
-### ~~Start building~~ - Q1 2025 - ✔️
+The Vana Foundation provided a grant enabling the newly founded Cape4Labs to begin full-scale development and release the app asap.
+{% endupdate %}
 
-### ~~Receive grant from VANA~~ - Q3 2025 - ✔️
+{% update date="2025-10-12" %}
+## ◼️ Season 0 started.
 
-### ~~Complete Data Flow~~ - Q3 2025 - ✔️
+Data collection DApp went live on the Vana mainnet. The project treasury was established, and the first tokens went to data contributors.
+{% endupdate %}
 
-### ~~Launch the DLP smart contract and token $AUDATA~~ - Q3 2025 - ✔️
+{% update date="2025-10-24" %}
+## ◼️ Community Growth.
 
-### Season 0 (Early birds season) - Q3 2025 - ⚙️
+The first art contest was held. The Discord server reached 200 members, while the X account got unexpected support from the DataFi community.
+{% endupdate %}
 
-### NFT Collection Mint - Q3 2025 - ⚙️
+{% update date="2025-11-21" %}
+## ◼️ Offline and online events.&#x20;
 
-### Season 1 - Q4 2025
+The first offline event, Data Pizza Party, was hosted. 4 X Spaces were organized, including the one with Vana Founder [@artieart88](https://x.com/artieart88) as a guest.
+{% endupdate %}
 
-### Stage 0: Preparation & Initial Launch
+{% update date="2026-01-01" %}
+## ◼️ Project takes pause.
+{% endupdate %}
+{% endupdates %}
 
-Building a bridge between the data we collect and how the world uses it.
-
-* **Complete Storj integration:** Establish a connection with the Storj platform.
-* **Publish initial components:** Release the code and resources built so far.
-
-### Stage 1: Test Launch & Early Community Building
-
-Establish an initial test system for further full-scale deployment.
-
-* **Test launch:** Begin initial testing of the platform.
-* **Community engagement:** Conduct the first AMAs and onboard early users.
-* **Token distribution:** Award initial contribution points. Later switch them to tokens.
-
-### Stage 2: Mainnet Launch on VANA
-
-* **Mainnet deployment:** Launch Audata on the VANA mainnet.
-* **Treasury implementation:** Establish a project treasury.
-* **Design the DAO:** Set up the decision-making system.
-
-### Stage 3: Expansion & Ecosystem Growth
-
-* **Machine learning labs:** Establish a platform to use raw audio data in R\&D.
-* **Hackathons:** Organize small events to improve the audio proof mechanism and attract new talent to the audio analysis space.
-* **Dashboard:** Design a user-friendly dashboard to showcase the growth of the Vana ecosystem.
-
-### To participate in any of these stages, check [Contact Us](/broken/spaces/FACl4UOHokfJV4BH5Kge/pages/xz5ZOwofV2CoeLHukrgh)
-
-There are three guides on how to join, based on who you are.
+### The project is currently on a strategic pause. This phase is focused on securing new investments, attracting clients, exploring new opportunities, and evaluating emerging technologies. During the beta phase (Season 0), several critical issues were identified. The team is now addressing them to improve the project before launching **Season 1**.

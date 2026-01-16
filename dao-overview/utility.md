@@ -18,17 +18,17 @@ layout:
 
 # Utility
 
-### Why we collect audio data?
+#### **Why do we collect audio data?**
 
-Raw audio data is essential for many companies, startups, and universities worldwide. It’s becoming even more valuable because of the AI revolution. It is the fuel of post-informational era coming.
+Raw audio data is essential for many companies, startups, and universities worldwide. It is becoming even more valuable because of the AI revolution—it is the fuel of the post-informational era.
 
-But the data markets are not doing well. Here’s [research](https://www.dataprovenance.org/Multimodal_Data_Provenance.pdf) on the current state of the industry.
+However, data markets are not doing well. Here is [research](https://www.dataprovenance.org/Multimodal_Data_Provenance.pdf) on the current state of the industry.
 
-You will see that there is a significant lack of data presented in audio format, especially from such areas as Africa, South America, and Southeast Asia. Moreover, the majority of audio data comes from audiobooks, TV and radio programs, parliamentary speeches, and podcasts. While it is live, it is often not very emotional and rarely spontaneous.
+This research shows a significant lack of data presented in audio format, especially from regions such as Africa, South America, and Southeast Asia. Moreover, the majority of available audio data comes from audiobooks, TV and radio programs, parliamentary speeches, and podcasts. While this content is live, it is often not very emotional and is rarely spontaneous.
 
-AudataDAO is built to close this gap with live speech audio coming from messengers like Telegram, WhatsApp, and many others. People are used to recording hundreds of voice messages daily. That’s the asset we want to help them monetize.
+AudataDAO is built to close this gap by providing live speech audio from messengers like Telegram, WhatsApp, and many others. People are used to recording hundreds of voice messages daily. That is the asset we want to help them monetize.
 
-#### Where can this data be used?
+#### **Where can this data be used?**
 
 #### <mark style="color:green;">Speech Recognition</mark>
 

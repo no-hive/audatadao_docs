@@ -17,10 +17,7 @@
 ## TEAM BEHIND
 
 * [Cape4labs](team-behind/cape4labs.md)
-* [Contact Us](team-behind/contact-us/README.md)
-  * [to join the dev team](team-behind/contact-us/to-join-the-dev-team.md)
-  * [to buy a dataset](team-behind/contact-us/to-buy-a-dataset.md)
-  * [to become our partner](team-behind/contact-us/to-become-our-partner.md)
+* [Contact Us](team-behind/contact-us.md)
 
 ## Guides
 

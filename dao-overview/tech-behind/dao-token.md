@@ -4,58 +4,73 @@ icon: coin-blank
 
 # DAO Token
 
-Why do we have a token?
+### Token Overview
 
-\--
-
-How exactly its value is created?
-
-
-
-How can I recieve the token?
+AudataDAO uses a native utility token, $AUDATA, to manage data ownership, access, governance, and value exchange within the protocol. Built on the Vana Blockchain, AudataDAO deploys the $AUDATA token directly on Vana to leverage its secure, user-owned data infrastructure.
 
 {% hint style="info" %}
-### What is the Vana blockchain?
+### What is the Vana Blockchain?
 
 The Vana network is an EVM-compatible layer-1 blockchain designed to restore individual control over personal data and enable user-owned AI through private and secure data transactions.
 
 The platform has attracted top-tier investment from Paradigm and a16z, with recent strategic backing and advisory support from Changpeng “CZ” Zhao (former Binance founder).
 {% endhint %}
 
-_$AUDATA_ helps us keep all processes secure, decentralized, and fair for both sides.
+### What is the purpose of the token?
 
-**To understand the token flow, see the diagram below.**
+The $AUDATA token serves four core purposes:
 
-**Data contribution / upload**: _audio ---> storage ---> token ---> user._\
-**Data usage for machine learning:** _dev ---> token ---> storage ---> model training._
+1. **Data monetization** — rewarding users for contributing audio data.
+2. **Access control** — regulating developer access to encrypted datasets.
+3. **DAO governance** — enabling contributors to participate in protocol governance, including decisions on dataset usage, treasury management, and protocol upgrades.
+4. **Value alignment** — aligning incentives between users, developers, and the protocol.
 
-<figure><img src="../../.gitbook/assets/Group 3 (1).png" alt=""><figcaption></figcaption></figure>
+### How token value is formed?
 
-**Token&#x20;**_**$AUDATA**_**&#x20;is the key element of data monetization.**\
-\
-**Users receive tokens for data uploads** and can see them grow as more ML specialists engage with our tools and audio datasets.\
-\
-**Devs (ML specialists) must buy tokens and burn them to access storage** with your encrypted audio files and let models learn from them.\
-\
-**This economy helps democratize data safely and securely.** Users and devs win because there’s no third party taking high fees.\
-\
-**You might ask how the Audata team makes money if there are no fees and only token flow.**
+The value of $AUDATA is derived from real usage of the protocol. As demand for audio datasets increases, developers are required to acquire and burn tokens to access encrypted storage and enable model training. This creates a direct link between dataset usage and token demand.
 
-We hold tokens and earn the same way as users: by holding and growing the community.
+Token value is therefore driven by:
 
-### **There are two main ways to earn tokens:**
+* Growth in data contributions
+* Increased developer adoption
+* Expansion of machine learning use cases
 
-**Method 1** - File Contribution Rewards: Receive tokens for each file you contribute. You can earn up to 1 _$AUDATA_ per file upload.
+### What is a token flow?
 
-**Method 2** - Seasonal Leaderboard **(Major Rewards)**:
+**Data contribution:** audio → encrypted storage → $AUDATA (distributed from Treasury)→ user
 
-1. Complete your account information.
-2. Upload files from one wallet.
-3. Climb the leaderboard rankings.
-4. Receive token drops when the season ends.
+**Data usage:** developer → $AUDATA (burned) → encrypted storage → model training
 
-This method can yield 100-200x more tokens than the basic contribution rewards.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**Right now Season 0 is live. Visit** [**audata.space**](https://audata.space) **to get started.**
+{% hint style="info" %}
+#### Data Consumers (Developers)
 
-<figure><img src="../../.gitbook/assets/Group 15.jpg" alt=""><figcaption></figcaption></figure>
+Developers and ML specialists must acquire $AUDATA tokens to access encrypted storage and train models on the data. Tokens used for data access are burned, introducing a deflationary mechanism tied to real usage.
+{% endhint %}
+
+{% hint style="info" %}
+#### Data Contributors (Users)
+
+Users receive $AUDATA tokens for uploading audio data to the protocol. Contributions are encrypted on the user’s device and stored securely. By holding tokens, contributors become DAO members with governance rights over the dataset and protocol decisions.
+{% endhint %}
+
+### What does the initial tokenomics look like?
+
+<figure><img src="../../.gitbook/assets/Frame 1 (24).png" alt=""><figcaption></figcaption></figure>
+
+The AudataDAO team does not charge platform fees. Instead, the team holds $AUDATA tokens and participates in DAO governance alongside the community. The team’s incentives are aligned with long-term protocol adoption, dataset usage, and ecosystem growth.
+
+### Why we choose token-based data monetization?
+
+Using $AUDATA eliminates the need for centralized data brokers and excessive platform fees. All value flows directly between contributors and developers through the protocol. This model ensures:
+
+* Fair compensation for users.
+* Predictable costs for developers.
+* No hidden intermediaries.
+* Secure and private data usage.
+
+### How can I receive the token right now?
+
+Check this section for the answer - [guide1.md](../../guides/guide1.md "mention").
+

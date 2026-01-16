@@ -1,6 +1,0 @@
----
-icon: comments
----
-
-# Contact Us
-
