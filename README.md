@@ -4,7 +4,9 @@ icon: hand-wave
 
 # Welcome!
 
-We’re AudataDAO — the home of user-owned speech datasets. Explore what we do:
+We’re AudataDAO - a DAO for creating and governing user-owned speech datasets, providing the AI industry with real, ethically sourced audio data.&#x20;
+
+Explore what we do in detail:
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>DAO Overview ></td><td><a href=".gitbook/assets/Frame 1 (10).png">Frame 1 (10).png</a></td><td><a href="dao-overview/concept.md">concept.md</a></td></tr><tr><td>DAO Token ></td><td><a href=".gitbook/assets/Frame 1 (9).png">Frame 1 (9).png</a></td><td><a href="dao-overview/tech-behind/dao-token.md#token-overview">#token-overview</a></td></tr><tr><td>Project Team ></td><td><a href=".gitbook/assets/Frame 1 (19).png">Frame 1 (19).png</a></td><td><a href="team-behind/cape4labs.md">cape4labs.md</a></td></tr></tbody></table>
 
