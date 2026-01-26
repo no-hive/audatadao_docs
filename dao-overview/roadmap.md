@@ -5,7 +5,7 @@ icon: scribble
 
 # Roadmap
 
-### **The graph below reflects the project’s retrospective rather than its roadmap or future plans.**
+**The graph below reflects the project’s retrospective rather than its roadmap or future plans.**
 
 {% updates format="full" %}
 {% update date="2024-12-08" %}
@@ -56,9 +56,10 @@ The first art contest was held. The Discord server reached 200 members, while th
 The first offline event, Data Pizza Party, was hosted. 4 X Spaces were organized, including the one with Vana Founder [@artieart88](https://x.com/artieart88) as a guest.
 {% endupdate %}
 
-{% update date="2026-01-01" %}
+{% update date="2026-01-21" %}
 ## ◼️ Project takes pause.
+
+The project is currently on a strategic pause. This phase is focused on securing new investments, attracting clients, exploring new opportunities, and evaluating emerging technologies. During the beta phase (Season 0), several critical issues were identified. The team is now addressing them to improve the project before launching **Season 1**.
 {% endupdate %}
 {% endupdates %}
 
-### The project is currently on a strategic pause. This phase is focused on securing new investments, attracting clients, exploring new opportunities, and evaluating emerging technologies. During the beta phase (Season 0), several critical issues were identified. The team is now addressing them to improve the project before launching **Season 1**.
