@@ -10,20 +10,7 @@ Cape4labs is an independent web development studio with a tiny but dedicated tea
 
 Our primary expertise lies in JavaScript technologies, with a strong specialization in the web3 domain. We’ve built impactful solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance.
 
-{% columns %}
-{% column %}
 {% embed url="https://github.com/cape4labs" %}
 Our GitHub
 {% endembed %}
 
-
-{% endcolumn %}
-
-{% column %}
-{% embed url="https://webflow.com/" %}
-Our website
-{% endembed %}
-
-
-{% endcolumn %}
-{% endcolumns %}
