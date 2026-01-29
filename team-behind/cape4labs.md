@@ -1,7 +1,7 @@
 ---
 icon: person-through-window
-cover: ../.gitbook/assets/Group 39.png
-coverY: 463.8179157767742
+cover: ../.gitbook/assets/Frame 176.png
+coverY: 0
 ---
 
 # Cape4labs
