@@ -1,6 +1,6 @@
 ---
 icon: person-through-window
-cover: ../.gitbook/assets/Frame 176.png
+cover: ../.gitbook/assets/photo_2026-01-29_14-42-15.jpg
 coverY: 0
 ---
 
