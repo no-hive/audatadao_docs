@@ -59,7 +59,7 @@ The first offline event, Data Pizza Party, was hosted. 4 X Spaces were organized
 {% update date="2026-01-21" %}
 ## ◼️ Project takes pause.
 
-The project is currently on a strategic pause. This phase is focused on securing new investments, attracting clients, exploring new opportunities, and evaluating emerging technologies. During the beta phase (Season 0), several critical issues were identified. The team is now addressing them to improve the project before launching **Season 1**.
+The project is on a strategic pause: the team is securing investments, attracting clients, exploring new opportunities and technologies, and addressing key issues identified during the beta phase (Season 0) ahead of the Season 1 launch.
 {% endupdate %}
 {% endupdates %}
 
